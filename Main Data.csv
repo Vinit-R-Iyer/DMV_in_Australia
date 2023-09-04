@@ -1,0 +1,641 @@
+"LGA","Year","Offence_Category_DMV","Subcategory","Total_DMV_Offences","Offence_Category_Drug","Total_Drug_Offences","Alcohol_induced_DMV_Offences","Non_Alcohol_induced_DMV_offences","Total_Employed","new_Unemployment_Data"
+"Albury",2016,"Assault","Domestic violence related assault",284,"Drug offences",329,101,183,29373,22799
+"Albury",2017,"Assault","Domestic violence related assault",279,"Drug offences",177,107,176,29676,23217
+"Albury",2018,"Assault","Domestic violence related assault",286,"Drug offences",213,85,201,30666,22918
+"Albury",2019,"Assault","Domestic violence related assault",297,"Drug offences",288,72,225,31754,22480
+"Albury",2020,"Assault","Domestic violence related assault",243,"Drug offences",252,75,253,31624,23306
+"Armidale Regional",2016,"Assault","Domestic violence related assault",152,"Drug offences",218,48,98,15066,15447
+"Armidale Regional",2017,"Assault","Domestic violence related assault",183,"Drug offences",120,74,97,15088,15694
+"Armidale Regional",2018,"Assault","Domestic violence related assault",203,"Drug offences",124,71,123,15523,15334
+"Armidale Regional",2019,"Assault","Domestic violence related assault",200,"Drug offences",163,80,100,16017,14950
+"Armidale Regional",2020,"Assault","Domestic violence related assault",145,"Drug offences",139,69,114,15944,14879
+"Ballina",2016,"Assault","Domestic violence related assault",109,"Drug offences",142,58,51,17507,25382
+"Ballina",2017,"Assault","Domestic violence related assault",104,"Drug offences",102,44,60,17699,25716
+"Ballina",2018,"Assault","Domestic violence related assault",112,"Drug offences",112,57,55,18334,25722
+"Ballina",2019,"Assault","Domestic violence related assault",97,"Drug offences",156,40,57,19032,25482
+"Ballina",2020,"Assault","Domestic violence related assault",69,"Drug offences",145,62,66,18999,26115
+"Balranald",2016,"Assault","Domestic violence related assault",5,"Drug offences",8,2,3,1013,1413
+"Balranald",2017,"Assault","Domestic violence related assault",6,"Drug offences",14,7,0,1008,1411
+"Balranald",2018,"Assault","Domestic violence related assault",11,"Drug offences",18,4,7,1036,1383
+"Balranald",2019,"Assault","Domestic violence related assault",10,"Drug offences",22,4,6,1071,1335
+"Balranald",2020,"Assault","Domestic violence related assault",9,"Drug offences",6,11,2,1065,1309
+"Bathurst Regional",2016,"Assault","Domestic violence related assault",186,"Drug offences",130,50,136,20658,22225
+"Bathurst Regional",2017,"Assault","Domestic violence related assault",216,"Drug offences",157,82,132,20782,22601
+"Bathurst Regional",2018,"Assault","Domestic violence related assault",224,"Drug offences",175,73,151,21459,22345
+"Bathurst Regional",2019,"Assault","Domestic violence related assault",239,"Drug offences",233,91,147,22212,22046
+"Bathurst Regional",2020,"Assault","Domestic violence related assault",167,"Drug offences",207,73,165,22124,22522
+"Bayside",2016,"Assault","Domestic violence related assault",521,"Drug offences",665,122,398,91139,73427
+"Bayside",2017,"Assault","Domestic violence related assault",523,"Drug offences",555,141,382,91827,78375
+"Bayside",2018,"Assault","Domestic violence related assault",583,"Drug offences",621,167,415,94279,80084
+"Bayside",2019,"Assault","Domestic violence related assault",643,"Drug offences",558,184,461,97131,81425
+"Bayside",2020,"Assault","Domestic violence related assault",517,"Drug offences",429,161,507,95811,85905
+"Bega Valley",2016,"Assault","Domestic violence related assault",106,"Drug offences",111,39,67,14140,19887
+"Bega Valley",2017,"Assault","Domestic violence related assault",107,"Drug offences",80,42,65,14140,20051
+"Bega Valley",2018,"Assault","Domestic violence related assault",107,"Drug offences",95,42,65,14549,19808
+"Bega Valley",2019,"Assault","Domestic violence related assault",102,"Drug offences",82,37,65,15000,19486
+"Bega Valley",2020,"Assault","Domestic violence related assault",83,"Drug offences",104,53,65,14839,19900
+"Bellingen",2016,"Assault","Domestic violence related assault",36,"Drug offences",32,17,19,4356,9244
+"Bellingen",2017,"Assault","Domestic violence related assault",34,"Drug offences",57,6,28,4375,9238
+"Bellingen",2018,"Assault","Domestic violence related assault",46,"Drug offences",33,13,33,4512,9097
+"Bellingen",2019,"Assault","Domestic violence related assault",41,"Drug offences",52,16,26,4663,8974
+"Bellingen",2020,"Assault","Domestic violence related assault",47,"Drug offences",31,22,35,4630,9104
+"Berrigan",2016,"Assault","Domestic violence related assault",15,"Drug offences",72,6,9,3211,5396
+"Berrigan",2017,"Assault","Domestic violence related assault",13,"Drug offences",78,6,7,3207,5477
+"Berrigan",2018,"Assault","Domestic violence related assault",23,"Drug offences",106,14,9,3296,5433
+"Berrigan",2019,"Assault","Domestic violence related assault",15,"Drug offences",71,6,9,3399,5366
+"Berrigan",2020,"Assault","Domestic violence related assault",10,"Drug offences",27,5,12,3364,5400
+"Blacktown",2016,"Assault","Domestic violence related assault",2066,"Drug offences",1024,414,1652,127380,223414
+"Blacktown",2017,"Assault","Domestic violence related assault",2030,"Drug offences",1007,466,1564,128287,232132
+"Blacktown",2018,"Assault","Domestic violence related assault",2193,"Drug offences",1170,497,1699,131791,237085
+"Blacktown",2019,"Assault","Domestic violence related assault",2219,"Drug offences",1308,519,1703,135635,241568
+"Blacktown",2020,"Assault","Domestic violence related assault",1602,"Drug offences",1068,529,1675,134521,251128
+"Bland",2016,"Assault","Domestic violence related assault",21,"Drug offences",19,6,15,3044,2952
+"Bland",2017,"Assault","Domestic violence related assault",20,"Drug offences",20,6,14,3026,2954
+"Bland",2018,"Assault","Domestic violence related assault",15,"Drug offences",35,5,10,3093,2872
+"Bland",2019,"Assault","Domestic violence related assault",20,"Drug offences",19,6,14,3176,2782
+"Bland",2020,"Assault","Domestic violence related assault",13,"Drug offences",16,9,11,3153,2769
+"Blayney",2016,"Assault","Domestic violence related assault",15,"Drug offences",18,4,11,3591,3763
+"Blayney",2017,"Assault","Domestic violence related assault",38,"Drug offences",16,19,18,3542,3819
+"Blayney",2018,"Assault","Domestic violence related assault",19,"Drug offences",21,7,12,3606,3737
+"Blayney",2019,"Assault","Domestic violence related assault",22,"Drug offences",21,11,10,3676,3704
+"Blayney",2020,"Assault","Domestic violence related assault",18,"Drug offences",10,10,24,3621,3762
+"Blue Mountains",2016,"Assault","Domestic violence related assault",250,"Drug offences",124,86,164,21366,57255
+"Blue Mountains",2017,"Assault","Domestic violence related assault",266,"Drug offences",157,104,163,21648,57186
+"Blue Mountains",2018,"Assault","Domestic violence related assault",234,"Drug offences",162,76,159,22483,56587
+"Blue Mountains",2019,"Assault","Domestic violence related assault",174,"Drug offences",168,50,125,23397,55596
+"Blue Mountains",2020,"Assault","Domestic violence related assault",160,"Drug offences",146,60,154,23268,55825
+"Bogan",2016,"Assault","Domestic violence related assault",27,"Drug offences",16,9,18,1543,1209
+"Bogan",2017,"Assault","Domestic violence related assault",20,"Drug offences",17,5,15,1510,1205
+"Bogan",2018,"Assault","Domestic violence related assault",22,"Drug offences",11,4,18,1519,1156
+"Bogan",2019,"Assault","Domestic violence related assault",23,"Drug offences",22,11,12,1533,1099
+"Bogan",2020,"Assault","Domestic violence related assault",16,"Drug offences",21,4,17,1495,1084
+"Bourke",2016,"Assault","Domestic violence related assault",92,"Drug offences",44,32,60,1165,1607
+"Bourke",2017,"Assault","Domestic violence related assault",89,"Drug offences",19,44,45,1156,1582
+"Bourke",2018,"Assault","Domestic violence related assault",103,"Drug offences",42,51,52,1178,1511
+"Bourke",2019,"Assault","Domestic violence related assault",101,"Drug offences",34,38,63,1206,1440
+"Bourke",2020,"Assault","Domestic violence related assault",84,"Drug offences",41,45,75,1190,1441
+"Brewarrina",2016,"Assault","Domestic violence related assault",48,"Drug offences",13,31,17,490,921
+"Brewarrina",2017,"Assault","Domestic violence related assault",43,"Drug offences",6,32,11,483,908
+"Brewarrina",2018,"Assault","Domestic violence related assault",44,"Drug offences",9,26,18,491,874
+"Brewarrina",2019,"Assault","Domestic violence related assault",61,"Drug offences",29,39,22,503,840
+"Brewarrina",2020,"Assault","Domestic violence related assault",46,"Drug offences",30,39,28,500,835
+"Broken Hill",2016,"Assault","Domestic violence related assault",160,"Drug offences",126,62,94,8098,10015
+"Broken Hill",2017,"Assault","Domestic violence related assault",184,"Drug offences",109,70,114,8036,9846
+"Broken Hill",2018,"Assault","Domestic violence related assault",207,"Drug offences",174,69,138,8162,9552
+"Broken Hill",2019,"Assault","Domestic violence related assault",206,"Drug offences",138,69,134,8306,9170
+"Broken Hill",2020,"Assault","Domestic violence related assault",177,"Drug offences",128,83,163,8124,9144
+"Burwood",2016,"Assault","Domestic violence related assault",72,"Drug offences",88,20,52,18938,20367
+"Burwood",2017,"Assault","Domestic violence related assault",84,"Drug offences",59,20,66,19185,21298
+"Burwood",2018,"Assault","Domestic violence related assault",60,"Drug offences",122,12,48,19880,21381
+"Burwood",2019,"Assault","Domestic violence related assault",60,"Drug offences",174,13,47,20674,21579
+"Burwood",2020,"Assault","Domestic violence related assault",47,"Drug offences",95,13,56,20708,21995
+"Byron",2016,"Assault","Domestic violence related assault",97,"Drug offences",528,52,45,14883,18325
+"Byron",2017,"Assault","Domestic violence related assault",112,"Drug offences",488,50,62,15042,18658
+"Byron",2018,"Assault","Domestic violence related assault",108,"Drug offences",783,54,54,15575,18650
+"Byron",2019,"Assault","Domestic violence related assault",112,"Drug offences",933,60,52,16152,18589
+"Byron",2020,"Assault","Domestic violence related assault",76,"Drug offences",280,45,60,16017,19433
+"Cabonne",2016,"Assault","Domestic violence related assault",29,"Drug offences",9,11,18,5254,8144
+"Cabonne",2017,"Assault","Domestic violence related assault",24,"Drug offences",9,12,12,5217,8299
+"Cabonne",2018,"Assault","Domestic violence related assault",44,"Drug offences",10,14,30,5344,8269
+"Cabonne",2019,"Assault","Domestic violence related assault",35,"Drug offences",9,10,25,5492,8198
+"Cabonne",2020,"Assault","Domestic violence related assault",18,"Drug offences",17,10,20,5462,8264
+"Camden",2016,"Assault","Domestic violence related assault",223,"Drug offences",383,68,155,29296,50811
+"Camden",2017,"Assault","Domestic violence related assault",308,"Drug offences",397,78,230,29799,56868
+"Camden",2018,"Assault","Domestic violence related assault",357,"Drug offences",279,102,255,30720,62916
+"Camden",2019,"Assault","Domestic violence related assault",388,"Drug offences",379,98,291,31818,69321
+"Camden",2020,"Assault","Domestic violence related assault",254,"Drug offences",214,84,252,31639,75989
+"Campbelltown",2016,"Assault","Domestic violence related assault",933,"Drug offences",751,200,732,56796,105491
+"Campbelltown",2017,"Assault","Domestic violence related assault",804,"Drug offences",736,199,606,57123,108323
+"Campbelltown",2018,"Assault","Domestic violence related assault",931,"Drug offences",661,234,697,58772,109909
+"Campbelltown",2019,"Assault","Domestic violence related assault",894,"Drug offences",753,213,681,60573,111083
+"Campbelltown",2020,"Assault","Domestic violence related assault",696,"Drug offences",540,230,752,60099,114762
+"Canada Bay",2016,"Assault","Domestic violence related assault",108,"Drug offences",132,35,73,39491,53040
+"Canada Bay",2017,"Assault","Domestic violence related assault",112,"Drug offences",125,34,78,39747,54408
+"Canada Bay",2018,"Assault","Domestic violence related assault",100,"Drug offences",161,33,69,40990,54070
+"Canada Bay",2019,"Assault","Domestic violence related assault",114,"Drug offences",170,25,86,42379,53732
+"Canada Bay",2020,"Assault","Domestic violence related assault",95,"Drug offences",145,37,84,42177,54520
+"Canterbury-Bankstown",2016,"Assault","Domestic violence related assault",1344,"Drug offences",1365,200,1144,112088,249944
+"Canterbury-Bankstown",2017,"Assault","Domestic violence related assault",1261,"Drug offences",1419,238,1021,112883,255766
+"Canterbury-Bankstown",2018,"Assault","Domestic violence related assault",1132,"Drug offences",1502,183,950,116053,257554
+"Canterbury-Bankstown",2019,"Assault","Domestic violence related assault",1209,"Drug offences",1376,205,1008,119527,258344
+"Canterbury-Bankstown",2020,"Assault","Domestic violence related assault",954,"Drug offences",1249,174,1184,118414,262120
+"Carrathool",2016,"Assault","Domestic violence related assault",9,"Drug offences",8,6,3,1569,1355
+"Carrathool",2017,"Assault","Domestic violence related assault",10,"Drug offences",7,5,5,1557,1372
+"Carrathool",2018,"Assault","Domestic violence related assault",9,"Drug offences",8,6,3,1601,1329
+"Carrathool",2019,"Assault","Domestic violence related assault",12,"Drug offences",13,3,9,1660,1269
+"Carrathool",2020,"Assault","Domestic violence related assault",12,"Drug offences",8,10,11,1669,1256
+"Central Coast",2016,"Assault","Domestic violence related assault",1759,"Drug offences",1187,613,1146,123819,212791
+"Central Coast",2017,"Assault","Domestic violence related assault",1647,"Drug offences",1181,610,1037,124889,214552
+"Central Coast",2018,"Assault","Domestic violence related assault",1669,"Drug offences",1303,633,1036,129007,212733
+"Central Coast",2019,"Assault","Domestic violence related assault",1631,"Drug offences",1252,581,1050,133459,210510
+"Central Coast",2020,"Assault","Domestic violence related assault",1071,"Drug offences",990,495,1002,132575,213281
+"Central Darling",2016,"Assault","Domestic violence related assault",87,"Drug offences",14,80,7,1155,1423
+"Central Darling",2017,"Assault","Domestic violence related assault",87,"Drug offences",10,67,19,1128,1387
+"Central Darling",2018,"Assault","Domestic violence related assault",89,"Drug offences",6,64,25,1139,1353
+"Central Darling",2019,"Assault","Domestic violence related assault",99,"Drug offences",14,81,18,1159,1289
+"Central Darling",2020,"Assault","Domestic violence related assault",63,"Drug offences",16,53,32,1142,1244
+"Cessnock",2016,"Assault","Domestic violence related assault",358,"Drug offences",274,106,252,17599,39291
+"Cessnock",2017,"Assault","Domestic violence related assault",357,"Drug offences",299,108,250,17633,40159
+"Cessnock",2018,"Assault","Domestic violence related assault",308,"Drug offences",350,71,237,18163,41134
+"Cessnock",2019,"Assault","Domestic violence related assault",297,"Drug offences",356,75,222,18740,41518
+"Cessnock",2020,"Assault","Domestic violence related assault",181,"Drug offences",212,83,179,18499,43057
+"Clarence Valley",2016,"Assault","Domestic violence related assault",222,"Drug offences",333,103,119,19214,32407
+"Clarence Valley",2017,"Assault","Domestic violence related assault",228,"Drug offences",285,80,148,19281,32389
+"Clarence Valley",2018,"Assault","Domestic violence related assault",214,"Drug offences",283,88,126,19853,31852
+"Clarence Valley",2019,"Assault","Domestic violence related assault",183,"Drug offences",220,65,118,20491,31260
+"Clarence Valley",2020,"Assault","Domestic violence related assault",139,"Drug offences",198,85,133,20317,31498
+"Cobar",2016,"Assault","Domestic violence related assault",42,"Drug offences",16,11,23,2789,1993
+"Cobar",2017,"Assault","Domestic violence related assault",33,"Drug offences",21,8,15,2719,2034
+"Cobar",2018,"Assault","Domestic violence related assault",45,"Drug offences",14,14,24,2720,2008
+"Cobar",2019,"Assault","Domestic violence related assault",36,"Drug offences",24,12,16,2723,1948
+"Cobar",2020,"Assault","Domestic violence related assault",17,"Drug offences",29,10,10,2632,1887
+"Coffs Harbour",2016,"Assault","Domestic violence related assault",511,"Drug offences",459,213,298,33737,40285
+"Coffs Harbour",2017,"Assault","Domestic violence related assault",475,"Drug offences",437,179,296,34039,40826
+"Coffs Harbour",2018,"Assault","Domestic violence related assault",476,"Drug offences",489,181,295,35176,40589
+"Coffs Harbour",2019,"Assault","Domestic violence related assault",442,"Drug offences",473,211,231,36431,40143
+"Coffs Harbour",2020,"Assault","Domestic violence related assault",383,"Drug offences",395,210,319,36227,40790
+"Coolamon",2016,"Assault","Domestic violence related assault",12,"Drug offences",15,8,4,1271,3118
+"Coolamon",2017,"Assault","Domestic violence related assault",15,"Drug offences",10,11,4,1268,3140
+"Coolamon",2018,"Assault","Domestic violence related assault",11,"Drug offences",11,6,5,1299,3129
+"Coolamon",2019,"Assault","Domestic violence related assault",10,"Drug offences",8,5,5,1338,3113
+"Coolamon",2020,"Assault","Domestic violence related assault",6,"Drug offences",0,4,6,1331,3142
+"Coonamble",2016,"Assault","Domestic violence related assault",48,"Drug offences",65,17,31,1691,2553
+"Coonamble",2017,"Assault","Domestic violence related assault",53,"Drug offences",32,24,29,1663,2554
+"Coonamble",2018,"Assault","Domestic violence related assault",66,"Drug offences",49,20,46,1684,2483
+"Coonamble",2019,"Assault","Domestic violence related assault",119,"Drug offences",59,38,81,1716,2401
+"Coonamble",2020,"Assault","Domestic violence related assault",81,"Drug offences",49,32,66,1694,2374
+"Cootamundra-Gundagai",2016,"Assault","Domestic violence related assault",48,"Drug offences",62,19,29,4930,6383
+"Cootamundra-Gundagai",2017,"Assault","Domestic violence related assault",56,"Drug offences",40,18,38,4899,6400
+"Cootamundra-Gundagai",2018,"Assault","Domestic violence related assault",66,"Drug offences",77,26,40,5030,6277
+"Cootamundra-Gundagai",2019,"Assault","Domestic violence related assault",53,"Drug offences",59,13,40,5180,6112
+"Cootamundra-Gundagai",2020,"Assault","Domestic violence related assault",50,"Drug offences",33,23,41,5125,6161
+"Cowra",2016,"Assault","Domestic violence related assault",72,"Drug offences",36,30,42,5402,7276
+"Cowra",2017,"Assault","Domestic violence related assault",63,"Drug offences",16,30,34,5402,7292
+"Cowra",2018,"Assault","Domestic violence related assault",56,"Drug offences",24,16,40,5550,7162
+"Cowra",2019,"Assault","Domestic violence related assault",61,"Drug offences",26,29,33,5724,6968
+"Cowra",2020,"Assault","Domestic violence related assault",49,"Drug offences",54,25,59,5689,7008
+"Cumberland",2016,"Assault","Domestic violence related assault",864,"Drug offences",1174,139,725,83614,140368
+"Cumberland",2017,"Assault","Domestic violence related assault",834,"Drug offences",1216,129,708,84044,145599
+"Cumberland",2018,"Assault","Domestic violence related assault",894,"Drug offences",989,148,744,86118,148038
+"Cumberland",2019,"Assault","Domestic violence related assault",924,"Drug offences",1127,153,772,88513,150213
+"Cumberland",2020,"Assault","Domestic violence related assault",779,"Drug offences",961,189,879,87592,152294
+"Dubbo Regional",2016,"Assault","Domestic violence related assault",404,"Drug offences",228,107,297,25707,25762
+"Dubbo Regional",2017,"Assault","Domestic violence related assault",346,"Drug offences",218,81,265,25839,26345
+"Dubbo Regional",2018,"Assault","Domestic violence related assault",572,"Drug offences",345,125,447,26654,26605
+"Dubbo Regional",2019,"Assault","Domestic violence related assault",696,"Drug offences",334,149,548,27566,26193
+"Dubbo Regional",2020,"Assault","Domestic violence related assault",472,"Drug offences",368,132,499,27409,26686
+"Dungog",2016,"Assault","Domestic violence related assault",24,"Drug offences",20,13,11,2548,6552
+"Dungog",2017,"Assault","Domestic violence related assault",25,"Drug offences",8,13,12,2560,6632
+"Dungog",2018,"Assault","Domestic violence related assault",31,"Drug offences",15,14,17,2641,6694
+"Dungog",2019,"Assault","Domestic violence related assault",18,"Drug offences",18,10,8,2734,6687
+"Dungog",2020,"Assault","Domestic violence related assault",30,"Drug offences",10,16,20,2731,6932
+"Edward River",2016,"Assault","Domestic violence related assault",60,"Drug offences",95,25,35,4849,5372
+"Edward River",2017,"Assault","Domestic violence related assault",38,"Drug offences",113,6,31,4843,5334
+"Edward River",2018,"Assault","Domestic violence related assault",55,"Drug offences",103,16,39,4983,5228
+"Edward River",2019,"Assault","Domestic violence related assault",58,"Drug offences",91,10,47,5147,5100
+"Edward River",2020,"Assault","Domestic violence related assault",41,"Drug offences",58,12,45,5130,5102
+"Eurobodalla",2016,"Assault","Domestic violence related assault",141,"Drug offences",195,57,84,14011,23978
+"Eurobodalla",2017,"Assault","Domestic violence related assault",156,"Drug offences",179,73,83,14111,24074
+"Eurobodalla",2018,"Assault","Domestic violence related assault",178,"Drug offences",206,76,102,14564,23801
+"Eurobodalla",2019,"Assault","Domestic violence related assault",135,"Drug offences",198,64,71,15063,23539
+"Eurobodalla",2020,"Assault","Domestic violence related assault",138,"Drug offences",212,72,122,14933,24189
+"Fairfield",2016,"Assault","Domestic violence related assault",736,"Drug offences",1061,141,595,67471,138908
+"Fairfield",2017,"Assault","Domestic violence related assault",728,"Drug offences",1081,152,575,67800,141625
+"Fairfield",2018,"Assault","Domestic violence related assault",705,"Drug offences",979,147,558,69606,141474
+"Fairfield",2019,"Assault","Domestic violence related assault",757,"Drug offences",1051,155,602,71564,140794
+"Fairfield",2020,"Assault","Domestic violence related assault",542,"Drug offences",1034,147,622,70765,140772
+"Federation",2016,"Assault","Domestic violence related assault",31,"Drug offences",28,10,21,5865,6380
+"Federation",2017,"Assault","Domestic violence related assault",32,"Drug offences",34,9,23,5804,6473
+"Federation",2018,"Assault","Domestic violence related assault",21,"Drug offences",41,5,16,5946,6350
+"Federation",2019,"Assault","Domestic violence related assault",36,"Drug offences",61,16,20,6109,6164
+"Federation",2020,"Assault","Domestic violence related assault",31,"Drug offences",19,11,29,6026,6403
+"Forbes",2016,"Assault","Domestic violence related assault",81,"Drug offences",44,25,56,4636,5767
+"Forbes",2017,"Assault","Domestic violence related assault",58,"Drug offences",57,19,39,4654,5783
+"Forbes",2018,"Assault","Domestic violence related assault",70,"Drug offences",53,20,50,4787,5669
+"Forbes",2019,"Assault","Domestic violence related assault",79,"Drug offences",72,25,54,4946,5542
+"Forbes",2020,"Assault","Domestic violence related assault",63,"Drug offences",34,21,61,4935,5570
+"Georges River",2016,"Assault","Domestic violence related assault",443,"Drug offences",370,89,355,49016,104267
+"Georges River",2017,"Assault","Domestic violence related assault",443,"Drug offences",290,98,345,49677,107118
+"Georges River",2018,"Assault","Domestic violence related assault",434,"Drug offences",311,111,323,51376,107195
+"Georges River",2019,"Assault","Domestic violence related assault",494,"Drug offences",384,114,379,53320,106536
+"Georges River",2020,"Assault","Domestic violence related assault",317,"Drug offences",286,100,348,53288,107340
+"Gilgandra",2016,"Assault","Domestic violence related assault",33,"Drug offences",33,8,25,1846,2594
+"Gilgandra",2017,"Assault","Domestic violence related assault",40,"Drug offences",31,13,27,1837,2572
+"Gilgandra",2018,"Assault","Domestic violence related assault",37,"Drug offences",39,17,20,1887,2500
+"Gilgandra",2019,"Assault","Domestic violence related assault",42,"Drug offences",38,21,21,1950,2446
+"Gilgandra",2020,"Assault","Domestic violence related assault",35,"Drug offences",11,21,33,1947,2442
+"Glen Innes Severn",2016,"Assault","Domestic violence related assault",106,"Drug offences",29,40,66,3518,5415
+"Glen Innes Severn",2017,"Assault","Domestic violence related assault",72,"Drug offences",46,30,44,3504,5418
+"Glen Innes Severn",2018,"Assault","Domestic violence related assault",56,"Drug offences",53,26,30,3590,5309
+"Glen Innes Severn",2019,"Assault","Domestic violence related assault",64,"Drug offences",51,26,39,3697,5171
+"Glen Innes Severn",2020,"Assault","Domestic violence related assault",53,"Drug offences",33,23,50,3667,5205
+"Goulburn Mulwaree",2016,"Assault","Domestic violence related assault",105,"Drug offences",146,38,66,13209,15474
+"Goulburn Mulwaree",2017,"Assault","Domestic violence related assault",127,"Drug offences",145,40,87,13304,15673
+"Goulburn Mulwaree",2018,"Assault","Domestic violence related assault",116,"Drug offences",226,44,72,13744,15453
+"Goulburn Mulwaree",2019,"Assault","Domestic violence related assault",113,"Drug offences",188,30,84,14239,15309
+"Goulburn Mulwaree",2020,"Assault","Domestic violence related assault",87,"Drug offences",173,38,95,14186,15857
+"Greater Hume Shire",2016,"Assault","Domestic violence related assault",18,"Drug offences",14,8,10,3936,6549
+"Greater Hume Shire",2017,"Assault","Domestic violence related assault",18,"Drug offences",16,10,8,3970,6616
+"Greater Hume Shire",2018,"Assault","Domestic violence related assault",21,"Drug offences",20,9,12,4103,6564
+"Greater Hume Shire",2019,"Assault","Domestic violence related assault",31,"Drug offences",11,6,25,4260,6487
+"Greater Hume Shire",2020,"Assault","Domestic violence related assault",26,"Drug offences",6,5,26,4279,6573
+"Griffith",2016,"Assault","Domestic violence related assault",242,"Drug offences",72,68,174,14716,11595
+"Griffith",2017,"Assault","Domestic violence related assault",212,"Drug offences",120,52,160,14591,11983
+"Griffith",2018,"Assault","Domestic violence related assault",197,"Drug offences",112,54,143,14968,11870
+"Griffith",2019,"Assault","Domestic violence related assault",221,"Drug offences",199,61,162,15394,11604
+"Griffith",2020,"Assault","Domestic violence related assault",161,"Drug offences",138,62,160,15292,11864
+"Gunnedah",2016,"Assault","Domestic violence related assault",77,"Drug offences",28,20,57,5825,6672
+"Gunnedah",2017,"Assault","Domestic violence related assault",62,"Drug offences",22,24,38,5832,6698
+"Gunnedah",2018,"Assault","Domestic violence related assault",63,"Drug offences",28,29,35,5986,6562
+"Gunnedah",2019,"Assault","Domestic violence related assault",84,"Drug offences",43,31,53,6166,6394
+"Gunnedah",2020,"Assault","Domestic violence related assault",60,"Drug offences",37,37,58,6113,6438
+"Gwydir",2016,"Assault","Domestic violence related assault",15,"Drug offences",9,11,4,2324,3925
+"Gwydir",2017,"Assault","Domestic violence related assault",19,"Drug offences",10,11,8,2301,3970
+"Gwydir",2018,"Assault","Domestic violence related assault",27,"Drug offences",10,17,10,2353,3957
+"Gwydir",2019,"Assault","Domestic violence related assault",20,"Drug offences",17,10,10,2424,3904
+"Gwydir",2020,"Assault","Domestic violence related assault",27,"Drug offences",9,15,19,2423,3839
+"Hawkesbury",2016,"Assault","Domestic violence related assault",258,"Drug offences",291,67,191,28583,38423
+"Hawkesbury",2017,"Assault","Domestic violence related assault",249,"Drug offences",202,65,184,28853,38494
+"Hawkesbury",2018,"Assault","Domestic violence related assault",245,"Drug offences",214,70,175,29825,37871
+"Hawkesbury",2019,"Assault","Domestic violence related assault",236,"Drug offences",183,83,153,30916,37035
+"Hawkesbury",2020,"Assault","Domestic violence related assault",204,"Drug offences",158,70,211,30777,37637
+"Hay",2016,"Assault","Domestic violence related assault",24,"Drug offences",213,7,17,1525,1486
+"Hay",2017,"Assault","Domestic violence related assault",17,"Drug offences",109,5,12,1526,1474
+"Hay",2018,"Assault","Domestic violence related assault",19,"Drug offences",74,8,11,1570,1429
+"Hay",2019,"Assault","Domestic violence related assault",21,"Drug offences",36,7,14,1624,1349
+"Hay",2020,"Assault","Domestic violence related assault",24,"Drug offences",15,10,18,1621,1347
+"Hilltops",2016,"Assault","Domestic violence related assault",72,"Drug offences",47,30,42,8130,10361
+"Hilltops",2017,"Assault","Domestic violence related assault",99,"Drug offences",48,38,62,8111,10338
+"Hilltops",2018,"Assault","Domestic violence related assault",109,"Drug offences",70,43,66,8330,10101
+"Hilltops",2019,"Assault","Domestic violence related assault",89,"Drug offences",64,27,64,8589,9799
+"Hilltops",2020,"Assault","Domestic violence related assault",60,"Drug offences",103,37,63,8548,9745
+"Hornsby",2016,"Assault","Domestic violence related assault",152,"Drug offences",190,44,108,48444,96258
+"Hornsby",2017,"Assault","Domestic violence related assault",159,"Drug offences",176,45,114,48963,97312
+"Hornsby",2018,"Assault","Domestic violence related assault",159,"Drug offences",214,48,111,50646,96996
+"Hornsby",2019,"Assault","Domestic violence related assault",218,"Drug offences",248,51,166,52450,96424
+"Hornsby",2020,"Assault","Domestic violence related assault",225,"Drug offences",139,65,207,52250,97007
+"Hunters Hill",2016,"Assault","Domestic violence related assault",15,"Drug offences",25,4,11,5005,9652
+"Hunters Hill",2017,"Assault","Domestic violence related assault",22,"Drug offences",11,5,17,5082,9667
+"Hunters Hill",2018,"Assault","Domestic violence related assault",18,"Drug offences",18,9,9,5281,9527
+"Hunters Hill",2019,"Assault","Domestic violence related assault",23,"Drug offences",33,8,15,5496,9377
+"Hunters Hill",2020,"Assault","Domestic violence related assault",17,"Drug offences",29,0,19,5506,9360
+"Inner West",2016,"Assault","Domestic violence related assault",427,"Drug offences",862,142,287,72253,118062
+"Inner West",2017,"Assault","Domestic violence related assault",428,"Drug offences",828,169,258,72939,120833
+"Inner West",2018,"Assault","Domestic violence related assault",377,"Drug offences",710,158,219,75317,121194
+"Inner West",2019,"Assault","Domestic violence related assault",429,"Drug offences",879,131,298,77932,121059
+"Inner West",2020,"Assault","Domestic violence related assault",305,"Drug offences",730,141,278,77417,122546
+"Inverell",2016,"Assault","Domestic violence related assault",101,"Drug offences",67,42,65,7382,8691
+"Inverell",2017,"Assault","Domestic violence related assault",87,"Drug offences",67,44,55,7321,8749
+"Inverell",2018,"Assault","Domestic violence related assault",117,"Drug offences",70,44,82,7486,8570
+"Inverell",2019,"Assault","Domestic violence related assault",165,"Drug offences",49,58,127,7680,8363
+"Inverell",2020,"Assault","Domestic violence related assault",93,"Drug offences",71,43,111,7602,8391
+"Junee",2016,"Assault","Domestic violence related assault",41,"Drug offences",44,7,34,2148,4214
+"Junee",2017,"Assault","Domestic violence related assault",10,"Drug offences",21,3,7,2133,4306
+"Junee",2018,"Assault","Domestic violence related assault",17,"Drug offences",20,1,16,2190,4352
+"Junee",2019,"Assault","Domestic violence related assault",35,"Drug offences",33,9,27,2261,4335
+"Junee",2020,"Assault","Domestic violence related assault",21,"Drug offences",30,6,22,2251,4342
+"Kempsey",2016,"Assault","Domestic violence related assault",229,"Drug offences",137,78,151,10914,18549
+"Kempsey",2017,"Assault","Domestic violence related assault",219,"Drug offences",162,69,150,10962,18694
+"Kempsey",2018,"Assault","Domestic violence related assault",241,"Drug offences",181,70,171,11314,18380
+"Kempsey",2019,"Assault","Domestic violence related assault",211,"Drug offences",170,72,139,11704,18112
+"Kempsey",2020,"Assault","Domestic violence related assault",150,"Drug offences",155,75,170,11650,18341
+"Kiama",2016,"Assault","Domestic violence related assault",24,"Drug offences",31,11,13,6284,15740
+"Kiama",2017,"Assault","Domestic violence related assault",34,"Drug offences",20,16,18,6361,15986
+"Kiama",2018,"Assault","Domestic violence related assault",36,"Drug offences",12,13,23,6599,16241
+"Kiama",2019,"Assault","Domestic violence related assault",23,"Drug offences",17,12,11,6858,16386
+"Kiama",2020,"Assault","Domestic violence related assault",31,"Drug offences",26,13,25,6789,16756
+"Kyogle",2016,"Assault","Domestic violence related assault",45,"Drug offences",49,20,17,34902,87900
+"Kyogle",2017,"Assault","Domestic violence related assault",46,"Drug offences",39,25,17,35414,89381
+"Kyogle",2018,"Assault","Domestic violence related assault",52,"Drug offences",44,16,30,36762,89532
+"Kyogle",2019,"Assault","Domestic violence related assault",39,"Drug offences",36,10,20,38219,89180
+"Kyogle",2020,"Assault","Domestic violence related assault",30,"Drug offences",20,12,20,38272,89656
+"Lachlan",2016,"Assault","Domestic violence related assault",55,"Drug offences",23,41,22,3148,5912
+"Lachlan",2017,"Assault","Domestic violence related assault",58,"Drug offences",19,47,21,3143,5840
+"Lachlan",2018,"Assault","Domestic violence related assault",59,"Drug offences",17,23,43,3221,5677
+"Lachlan",2019,"Assault","Domestic violence related assault",59,"Drug offences",17,30,37,3315,5528
+"Lachlan",2020,"Assault","Domestic violence related assault",38,"Drug offences",22,19,30,3296,5523
+"Lake Macquarie",2016,"Assault","Domestic violence related assault",741,"Drug offences",542,199,542,2725,3701
+"Lake Macquarie",2017,"Assault","Domestic violence related assault",808,"Drug offences",534,232,576,2719,3613
+"Lake Macquarie",2018,"Assault","Domestic violence related assault",743,"Drug offences",592,225,518,2790,3454
+"Lake Macquarie",2019,"Assault","Domestic violence related assault",811,"Drug offences",701,251,560,2879,3281
+"Lake Macquarie",2020,"Assault","Domestic violence related assault",517,"Drug offences",582,232,515,2874,3217
+"Lane Cove",2016,"Assault","Domestic violence related assault",45,"Drug offences",29,15,30,68729,132959
+"Lane Cove",2017,"Assault","Domestic violence related assault",33,"Drug offences",24,12,21,69440,133363
+"Lane Cove",2018,"Assault","Domestic violence related assault",41,"Drug offences",45,13,29,71793,132227
+"Lane Cove",2019,"Assault","Domestic violence related assault",36,"Drug offences",37,9,27,74319,130835
+"Lane Cove",2020,"Assault","Domestic violence related assault",51,"Drug offences",21,22,41,73971,133081
+"Leeton",2016,"Assault","Domestic violence related assault",57,"Drug offences",50,17,40,20438,16692
+"Leeton",2017,"Assault","Domestic violence related assault",63,"Drug offences",54,20,43,20720,18106
+"Leeton",2018,"Assault","Domestic violence related assault",79,"Drug offences",78,30,49,21425,18142
+"Leeton",2019,"Assault","Domestic violence related assault",103,"Drug offences",83,22,81,22181,18214
+"Leeton",2020,"Assault","Domestic violence related assault",61,"Drug offences",72,17,66,22147,18818
+"Lismore",2016,"Assault","Domestic violence related assault",175,"Drug offences",612,64,113,5487,5841
+"Lismore",2017,"Assault","Domestic violence related assault",175,"Drug offences",504,47,128,5433,5909
+"Lismore",2018,"Assault","Domestic violence related assault",218,"Drug offences",506,60,158,5568,5772
+"Lismore",2019,"Assault","Domestic violence related assault",189,"Drug offences",552,65,124,5723,5614
+"Lismore",2020,"Assault","Domestic violence related assault",147,"Drug offences",287,74,140,5686,5564
+"Lithgow",2016,"Assault","Domestic violence related assault",85,"Drug offences",107,29,57,23618,20812
+"Lithgow",2017,"Assault","Domestic violence related assault",102,"Drug offences",90,24,78,23725,20535
+"Lithgow",2018,"Assault","Domestic violence related assault",89,"Drug offences",67,30,59,24443,19711
+"Lithgow",2019,"Assault","Domestic violence related assault",114,"Drug offences",77,36,78,25260,18798
+"Lithgow",2020,"Assault","Domestic violence related assault",100,"Drug offences",66,48,83,25160,18876
+"Liverpool Plains",2016,"Assault","Domestic violence related assault",67,"Drug offences",30,27,40,8874,12600
+"Liverpool Plains",2017,"Assault","Domestic violence related assault",35,"Drug offences",13,15,20,8882,12622
+"Liverpool Plains",2018,"Assault","Domestic violence related assault",40,"Drug offences",20,17,23,9111,12412
+"Liverpool Plains",2019,"Assault","Domestic violence related assault",45,"Drug offences",54,15,30,9376,12132
+"Liverpool Plains",2020,"Assault","Domestic violence related assault",44,"Drug offences",34,18,35,9290,12129
+"Liverpool",2016,"Assault","Domestic violence related assault",983,"Drug offences",958,177,808,79225,132285
+"Liverpool",2017,"Assault","Domestic violence related assault",862,"Drug offences",880,156,706,80224,137060
+"Liverpool",2018,"Assault","Domestic violence related assault",908,"Drug offences",855,169,741,82532,139923
+"Liverpool",2019,"Assault","Domestic violence related assault",898,"Drug offences",1827,142,757,85283,141672
+"Liverpool",2020,"Assault","Domestic violence related assault",748,"Drug offences",1534,184,850,84854,145765
+"Lockhart",2016,"Assault","Domestic violence related assault",7,"Drug offences",5,2,5,3127,4718
+"Lockhart",2017,"Assault","Domestic violence related assault",11,"Drug offences",7,5,6,3116,4748
+"Lockhart",2018,"Assault","Domestic violence related assault",10,"Drug offences",4,3,7,3195,4684
+"Lockhart",2019,"Assault","Domestic violence related assault",12,"Drug offences",2,10,2,3290,4606
+"Lockhart",2020,"Assault","Domestic violence related assault",5,"Drug offences",2,3,4,3268,4578
+"Lord Howe Island",2016,"Assault","Domestic violence related assault",2,"Drug offences",3,2,0,1004,2157
+"Lord Howe Island",2017,"Assault","Domestic violence related assault",1,"Drug offences",0,1,0,999,2166
+"Lord Howe Island",2018,"Assault","Domestic violence related assault",0,"Drug offences",0,0,0,1025,2151
+"Lord Howe Island",2019,"Assault","Domestic violence related assault",1,"Drug offences",2,1,0,1060,2131
+"Lord Howe Island",2020,"Assault","Domestic violence related assault",0,"Drug offences",1,0,0,1059,2145
+"Maitland",2016,"Assault","Domestic violence related assault",496,"Drug offences",320,131,365,31778,47147
+"Maitland",2017,"Assault","Domestic violence related assault",444,"Drug offences",313,105,339,32116,48740
+"Maitland",2018,"Assault","Domestic violence related assault",486,"Drug offences",396,138,348,33146,49797
+"Maitland",2019,"Assault","Domestic violence related assault",432,"Drug offences",497,120,312,34290,50705
+"Maitland",2020,"Assault","Domestic violence related assault",329,"Drug offences",382,112,322,34163,53098
+"Mid-Coast",2016,"Assault","Domestic violence related assault",458,"Drug offences",692,181,277,31742,59917
+"Mid-Coast",2017,"Assault","Domestic violence related assault",405,"Drug offences",623,168,237,31868,60506
+"Mid-Coast",2018,"Assault","Domestic violence related assault",428,"Drug offences",620,163,265,32823,60172
+"Mid-Coast",2019,"Assault","Domestic violence related assault",471,"Drug offences",433,167,303,33874,59735
+"Mid-Coast",2020,"Assault","Domestic violence related assault",337,"Drug offences",350,182,304,33567,60607
+"Mid-Western Regional",2016,"Assault","Domestic violence related assault",124,"Drug offences",129,57,67,11690,13100
+"Mid-Western Regional",2017,"Assault","Domestic violence related assault",107,"Drug offences",119,38,70,11636,13375
+"Mid-Western Regional",2018,"Assault","Domestic violence related assault",129,"Drug offences",169,51,78,11899,13325
+"Mid-Western Regional",2019,"Assault","Domestic violence related assault",165,"Drug offences",177,71,95,12185,13183
+"Mid-Western Regional",2020,"Assault","Domestic violence related assault",124,"Drug offences",74,66,93,12013,13460
+"Moree Plains",2016,"Assault","Domestic violence related assault",255,"Drug offences",179,114,141,6239,6438
+"Moree Plains",2017,"Assault","Domestic violence related assault",219,"Drug offences",205,88,131,6231,6331
+"Moree Plains",2018,"Assault","Domestic violence related assault",184,"Drug offences",176,57,127,6395,6044
+"Moree Plains",2019,"Assault","Domestic violence related assault",183,"Drug offences",129,57,126,6600,5766
+"Moree Plains",2020,"Assault","Domestic violence related assault",133,"Drug offences",110,60,156,6579,5616
+"Mosman",2016,"Assault","Domestic violence related assault",33,"Drug offences",36,13,20,10169,20090
+"Mosman",2017,"Assault","Domestic violence related assault",51,"Drug offences",55,19,32,10305,20282
+"Mosman",2018,"Assault","Domestic violence related assault",45,"Drug offences",27,13,32,10683,20168
+"Mosman",2019,"Assault","Domestic violence related assault",29,"Drug offences",37,12,17,11103,19856
+"Mosman",2020,"Assault","Domestic violence related assault",16,"Drug offences",25,7,13,10997,19787
+"Murray River",2016,"Assault","Domestic violence related assault",29,"Drug offences",60,13,16,4492,6053
+"Murray River",2017,"Assault","Domestic violence related assault",14,"Drug offences",51,9,6,4490,6197
+"Murray River",2018,"Assault","Domestic violence related assault",24,"Drug offences",53,13,11,4614,6229
+"Murray River",2019,"Assault","Domestic violence related assault",34,"Drug offences",63,18,17,4756,6178
+"Murray River",2020,"Assault","Domestic violence related assault",14,"Drug offences",41,12,7,4668,6501
+"Murrumbidgee",2016,"Assault","Domestic violence related assault",17,"Drug offences",9,4,13,1868,2061
+"Murrumbidgee",2017,"Assault","Domestic violence related assault",27,"Drug offences",11,10,17,1850,2081
+"Murrumbidgee",2018,"Assault","Domestic violence related assault",24,"Drug offences",9,5,19,1899,2036
+"Murrumbidgee",2019,"Assault","Domestic violence related assault",21,"Drug offences",13,9,12,1962,1974
+"Murrumbidgee",2020,"Assault","Domestic violence related assault",19,"Drug offences",14,7,16,1965,1965
+"Muswellbrook",2016,"Assault","Domestic violence related assault",93,"Drug offences",98,21,72,11631,4830
+"Muswellbrook",2017,"Assault","Domestic violence related assault",93,"Drug offences",124,35,58,11550,4894
+"Muswellbrook",2018,"Assault","Domestic violence related assault",109,"Drug offences",120,33,76,11757,4606
+"Muswellbrook",2019,"Assault","Domestic violence related assault",119,"Drug offences",135,46,74,11993,4381
+"Muswellbrook",2020,"Assault","Domestic violence related assault",95,"Drug offences",104,39,89,11823,4531
+"Narrabri",2016,"Assault","Domestic violence related assault",98,"Drug offences",62,42,56,6595,12981
+"Narrabri",2017,"Assault","Domestic violence related assault",76,"Drug offences",33,18,58,6649,13010
+"Narrabri",2018,"Assault","Domestic violence related assault",83,"Drug offences",41,23,60,6869,12844
+"Narrabri",2019,"Assault","Domestic violence related assault",87,"Drug offences",46,38,49,7103,12660
+"Narrabri",2020,"Assault","Domestic violence related assault",65,"Drug offences",53,34,62,7040,12782
+"Narrandera",2016,"Assault","Domestic violence related assault",27,"Drug offences",131,8,19,7461,5898
+"Narrandera",2017,"Assault","Domestic violence related assault",37,"Drug offences",75,9,28,7407,5935
+"Narrandera",2018,"Assault","Domestic violence related assault",31,"Drug offences",58,8,23,7553,5756
+"Narrandera",2019,"Assault","Domestic violence related assault",32,"Drug offences",103,12,20,7725,5528
+"Narrandera",2020,"Assault","Domestic violence related assault",42,"Drug offences",69,14,41,7629,5557
+"Narromine",2016,"Assault","Domestic violence related assault",46,"Drug offences",12,15,31,2476,3661
+"Narromine",2017,"Assault","Domestic violence related assault",56,"Drug offences",11,14,42,2479,3638
+"Narromine",2018,"Assault","Domestic violence related assault",83,"Drug offences",20,22,61,2555,3543
+"Narromine",2019,"Assault","Domestic violence related assault",57,"Drug offences",20,8,50,2645,3436
+"Narromine",2020,"Assault","Domestic violence related assault",44,"Drug offences",19,16,44,2644,3403
+"Newcastle",2016,"Assault","Domestic violence related assault",721,"Drug offences",728,226,495,2703,4008
+"Newcastle",2017,"Assault","Domestic violence related assault",669,"Drug offences",582,211,458,2687,3980
+"Newcastle",2018,"Assault","Domestic violence related assault",618,"Drug offences",532,206,412,2750,3881
+"Newcastle",2019,"Assault","Domestic violence related assault",710,"Drug offences",581,206,504,2828,3763
+"Newcastle",2020,"Assault","Domestic violence related assault",458,"Drug offences",639,187,478,2816,3716
+"North Sydney",2016,"Assault","Domestic violence related assault",132,"Drug offences",369,65,67,115220,46136
+"North Sydney",2017,"Assault","Domestic violence related assault",134,"Drug offences",405,70,64,116572,46421
+"North Sydney",2018,"Assault","Domestic violence related assault",121,"Drug offences",343,55,66,120479,44044
+"North Sydney",2019,"Assault","Domestic violence related assault",97,"Drug offences",341,37,59,124770,41436
+"North Sydney",2020,"Assault","Domestic violence related assault",67,"Drug offences",145,33,60,124323,43708
+"Northern Beaches",2016,"Assault","Domestic violence related assault",305,"Drug offences",395,118,187,81937,-10575
+"Northern Beaches",2017,"Assault","Domestic violence related assault",358,"Drug offences",475,160,198,83148,-10601
+"Northern Beaches",2018,"Assault","Domestic violence related assault",448,"Drug offences",434,194,254,86102,-12617
+"Northern Beaches",2019,"Assault","Domestic violence related assault",487,"Drug offences",476,202,285,89367,-15090
+"Northern Beaches",2020,"Assault","Domestic violence related assault",265,"Drug offences",383,136,215,89619,-15252
+"Oberon",2016,"Assault","Domestic violence related assault",15,"Drug offences",5,5,10,103858,161609
+"Oberon",2017,"Assault","Domestic violence related assault",20,"Drug offences",4,4,16,104896,163973
+"Oberon",2018,"Assault","Domestic violence related assault",35,"Drug offences",3,7,26,108310,162716
+"Oberon",2019,"Assault","Domestic violence related assault",18,"Drug offences",9,10,7,111979,161429
+"Oberon",2020,"Assault","Domestic violence related assault",11,"Drug offences",20,7,16,111201,162839
+"Orange",2016,"Assault","Domestic violence related assault",254,"Drug offences",228,69,185,2476,2227
+"Orange",2017,"Assault","Domestic violence related assault",269,"Drug offences",170,82,187,2473,2258
+"Orange",2018,"Assault","Domestic violence related assault",243,"Drug offences",175,59,184,2531,2183
+"Orange",2019,"Assault","Domestic violence related assault",315,"Drug offences",213,93,222,2600,2116
+"Orange",2020,"Assault","Domestic violence related assault",202,"Drug offences",169,69,194,2571,2151
+"Parkes",2016,"Assault","Domestic violence related assault",118,"Drug offences",80,31,87,21972,18537
+"Parkes",2017,"Assault","Domestic violence related assault",84,"Drug offences",55,24,60,22183,18709
+"Parkes",2018,"Assault","Domestic violence related assault",89,"Drug offences",52,26,64,22926,18447
+"Parkes",2019,"Assault","Domestic violence related assault",88,"Drug offences",52,32,56,23748,17994
+"Parkes",2020,"Assault","Domestic violence related assault",65,"Drug offences",40,26,72,23679,18159
+"Parramatta",2016,"Assault","Domestic violence related assault",633,"Drug offences",916,147,486,6675,8376
+"Parramatta",2017,"Assault","Domestic violence related assault",730,"Drug offences",1066,158,570,6691,8339
+"Parramatta",2018,"Assault","Domestic violence related assault",755,"Drug offences",1128,176,578,6875,8113
+"Parramatta",2019,"Assault","Domestic violence related assault",742,"Drug offences",1257,162,580,7092,7870
+"Parramatta",2020,"Assault","Domestic violence related assault",634,"Drug offences",817,186,703,7044,7828
+"Penrith",2016,"Assault","Domestic violence related assault",1054,"Drug offences",902,287,767,161821,71986
+"Penrith",2017,"Assault","Domestic violence related assault",1122,"Drug offences",922,288,833,163324,80028
+"Penrith",2018,"Assault","Domestic violence related assault",1244,"Drug offences",821,278,964,168418,82626
+"Penrith",2019,"Assault","Domestic violence related assault",1330,"Drug offences",760,300,1031,174444,83011
+"Penrith",2020,"Assault","Domestic violence related assault",1001,"Drug offences",720,324,1060,174374,86336
+"Port Macquarie-Hastings",2016,"Assault","Domestic violence related assault",254,"Drug offences",380,111,142,80616,120477
+"Port Macquarie-Hastings",2017,"Assault","Domestic violence related assault",246,"Drug offences",350,95,151,81424,123295
+"Port Macquarie-Hastings",2018,"Assault","Domestic violence related assault",272,"Drug offences",356,106,165,84013,124502
+"Port Macquarie-Hastings",2019,"Assault","Domestic violence related assault",314,"Drug offences",378,109,206,86859,125583
+"Port Macquarie-Hastings",2020,"Assault","Domestic violence related assault",214,"Drug offences",352,118,199,86335,129404
+"Port Stephens",2016,"Assault","Domestic violence related assault",354,"Drug offences",320,109,245,32646,47450
+"Port Stephens",2017,"Assault","Domestic violence related assault",314,"Drug offences",288,111,203,32884,48562
+"Port Stephens",2018,"Assault","Domestic violence related assault",350,"Drug offences",274,122,228,33909,49066
+"Port Stephens",2019,"Assault","Domestic violence related assault",379,"Drug offences",309,157,222,35047,49381
+"Port Stephens",2020,"Assault","Domestic violence related assault",247,"Drug offences",355,127,230,34813,51055
+"Queanbeyan-Palerang Regional",2016,"Assault","Domestic violence related assault",161,"Drug offences",204,58,105,31052,40160
+"Queanbeyan-Palerang Regional",2017,"Assault","Domestic violence related assault",132,"Drug offences",131,27,106,31606,40412
+"Queanbeyan-Palerang Regional",2018,"Assault","Domestic violence related assault",135,"Drug offences",147,37,98,32689,40121
+"Queanbeyan-Palerang Regional",2019,"Assault","Domestic violence related assault",146,"Drug offences",145,40,106,33902,39708
+"Queanbeyan-Palerang Regional",2020,"Assault","Domestic violence related assault",137,"Drug offences",195,52,139,33794,40812
+"Randwick",2016,"Assault","Domestic violence related assault",371,"Drug offences",573,148,223,17562,39648
+"Randwick",2017,"Assault","Domestic violence related assault",354,"Drug offences",949,125,229,17776,40497
+"Randwick",2018,"Assault","Domestic violence related assault",363,"Drug offences",899,119,244,18359,41034
+"Randwick",2019,"Assault","Domestic violence related assault",420,"Drug offences",904,135,286,19021,41543
+"Randwick",2020,"Assault","Domestic violence related assault",276,"Drug offences",511,127,265,18990,42760
+"Richmond Valley",2016,"Assault","Domestic violence related assault",131,"Drug offences",144,46,83,52741,96178
+"Richmond Valley",2017,"Assault","Domestic violence related assault",149,"Drug offences",187,64,85,53462,98685
+"Richmond Valley",2018,"Assault","Domestic violence related assault",124,"Drug offences",218,58,66,55491,98653
+"Richmond Valley",2019,"Assault","Domestic violence related assault",145,"Drug offences",163,60,85,57723,97797
+"Richmond Valley",2020,"Assault","Domestic violence related assault",96,"Drug offences",147,48,104,57588,99030
+"Ryde",2016,"Assault","Domestic violence related assault",207,"Drug offences",151,41,166,8281,15010
+"Ryde",2017,"Assault","Domestic violence related assault",206,"Drug offences",142,54,152,8198,15159
+"Ryde",2018,"Assault","Domestic violence related assault",258,"Drug offences",178,34,224,8386,15018
+"Ryde",2019,"Assault","Domestic violence related assault",296,"Drug offences",200,63,233,8603,14866
+"Ryde",2020,"Assault","Domestic violence related assault",247,"Drug offences",184,80,239,8498,15000
+"Shellharbour",2016,"Assault","Domestic violence related assault",234,"Drug offences",349,68,166,101401,20429
+"Shellharbour",2017,"Assault","Domestic violence related assault",238,"Drug offences",218,69,169,102010,23272
+"Shellharbour",2018,"Assault","Domestic violence related assault",200,"Drug offences",245,57,143,104752,23423
+"Shellharbour",2019,"Assault","Domestic violence related assault",238,"Drug offences",214,59,179,107578,24502
+"Shellharbour",2020,"Assault","Domestic violence related assault",197,"Drug offences",213,85,178,106664,27483
+"Shoalhaven",2016,"Assault","Domestic violence related assault",393,"Drug offences",398,145,248,20519,49871
+"Shoalhaven",2017,"Assault","Domestic violence related assault",338,"Drug offences",517,137,201,20759,50276
+"Shoalhaven",2018,"Assault","Domestic violence related assault",430,"Drug offences",506,152,278,21507,50652
+"Shoalhaven",2019,"Assault","Domestic violence related assault",390,"Drug offences",509,131,259,22317,50907
+"Shoalhaven",2020,"Assault","Domestic violence related assault",344,"Drug offences",343,161,303,22251,52370
+"Singleton",2016,"Assault","Domestic violence related assault",84,"Drug offences",74,20,64,39492,62289
+"Singleton",2017,"Assault","Domestic violence related assault",110,"Drug offences",94,23,87,39960,62957
+"Singleton",2018,"Assault","Domestic violence related assault",96,"Drug offences",136,39,57,41415,62718
+"Singleton",2019,"Assault","Domestic violence related assault",89,"Drug offences",137,30,59,43025,62485
+"Singleton",2020,"Assault","Domestic violence related assault",59,"Drug offences",108,33,63,42923,64107
+"Snowy Monaro Regional",2016,"Assault","Domestic violence related assault",54,"Drug offences",110,29,26,19734,3819
+"Snowy Monaro Regional",2017,"Assault","Domestic violence related assault",59,"Drug offences",117,27,32,19493,4061
+"Snowy Monaro Regional",2018,"Assault","Domestic violence related assault",48,"Drug offences",82,24,24,19749,3794
+"Snowy Monaro Regional",2019,"Assault","Domestic violence related assault",86,"Drug offences",104,31,55,20006,3589
+"Snowy Monaro Regional",2020,"Assault","Domestic violence related assault",48,"Drug offences",73,27,36,19574,3938
+"Snowy Valleys",2016,"Assault","Domestic violence related assault",87,"Drug offences",66,29,58,11650,9948
+"Snowy Valleys",2017,"Assault","Domestic violence related assault",66,"Drug offences",42,21,42,11662,10031
+"Snowy Valleys",2018,"Assault","Domestic violence related assault",66,"Drug offences",45,20,46,11991,9802
+"Snowy Valleys",2019,"Assault","Domestic violence related assault",74,"Drug offences",97,21,53,12370,9498
+"Snowy Valleys",2020,"Assault","Domestic violence related assault",58,"Drug offences",81,28,51,12078,9971
+"Strathfield",2016,"Assault","Domestic violence related assault",108,"Drug offences",79,22,86,7165,7487
+"Strathfield",2017,"Assault","Domestic violence related assault",131,"Drug offences",63,34,97,7109,7515
+"Strathfield",2018,"Assault","Domestic violence related assault",140,"Drug offences",81,30,111,7262,7286
+"Strathfield",2019,"Assault","Domestic violence related assault",141,"Drug offences",90,41,100,7449,7060
+"Strathfield",2020,"Assault","Domestic violence related assault",107,"Drug offences",76,21,114,7372,7069
+"Sutherland Shire",2016,"Assault","Domestic violence related assault",486,"Drug offences",717,186,299,25852,16240
+"Sutherland Shire",2017,"Assault","Domestic violence related assault",482,"Drug offences",778,181,301,25922,17445
+"Sutherland Shire",2018,"Assault","Domestic violence related assault",458,"Drug offences",759,171,287,26598,17877
+"Sutherland Shire",2019,"Assault","Domestic violence related assault",689,"Drug offences",906,205,483,27355,18553
+"Sutherland Shire",2020,"Assault","Domestic violence related assault",466,"Drug offences",747,233,420,27079,19524
+"Sydney",2016,"Assault","Domestic violence related assault",964,"Drug offences",4969,400,562,78560,147290
+"Sydney",2017,"Assault","Domestic violence related assault",1014,"Drug offences",4780,442,573,79465,147680
+"Sydney",2018,"Assault","Domestic violence related assault",1010,"Drug offences",5215,416,592,82179,146339
+"Sydney",2019,"Assault","Domestic violence related assault",1112,"Drug offences",5150,462,651,85098,145052
+"Sydney",2020,"Assault","Domestic violence related assault",797,"Drug offences",3689,431,681,84641,147299
+"Tamworth Regional",2016,"Assault","Domestic violence related assault",336,"Drug offences",197,118,218,578446,-355611
+"Tamworth Regional",2017,"Assault","Domestic violence related assault",345,"Drug offences",188,136,209,586663,-353382
+"Tamworth Regional",2018,"Assault","Domestic violence related assault",377,"Drug offences",209,136,240,607196,-366713
+"Tamworth Regional",2019,"Assault","Domestic violence related assault",411,"Drug offences",189,149,262,630904,-384230
+"Tamworth Regional",2020,"Assault","Domestic violence related assault",296,"Drug offences",170,94,321,632127,-382709
+"Temora",2016,"Assault","Domestic violence related assault",14,"Drug offences",17,9,5,29541,31267
+"Temora",2017,"Assault","Domestic violence related assault",27,"Drug offences",12,13,14,29640,31684
+"Temora",2018,"Assault","Domestic violence related assault",13,"Drug offences",20,5,8,30551,31270
+"Temora",2019,"Assault","Domestic violence related assault",29,"Drug offences",27,5,23,31570,30696
+"Temora",2020,"Assault","Domestic violence related assault",18,"Drug offences",11,13,12,31444,30839
+"Tenterfield",2016,"Assault","Domestic violence related assault",46,"Drug offences",22,18,36,2717,3468
+"Tenterfield",2017,"Assault","Domestic violence related assault",39,"Drug offences",27,14,27,2712,3520
+"Tenterfield",2018,"Assault","Domestic violence related assault",40,"Drug offences",37,15,31,2786,3481
+"Tenterfield",2019,"Assault","Domestic violence related assault",46,"Drug offences",33,21,34,2876,3437
+"Tenterfield",2020,"Assault","Domestic violence related assault",45,"Drug offences",42,27,38,2860,3428
+"The Hills Shire",2016,"Assault","Domestic violence related assault",207,"Drug offences",252,39,168,2461,4235
+"The Hills Shire",2017,"Assault","Domestic violence related assault",216,"Drug offences",249,51,165,2449,4210
+"The Hills Shire",2018,"Assault","Domestic violence related assault",217,"Drug offences",302,48,169,2509,4121
+"The Hills Shire",2019,"Assault","Domestic violence related assault",302,"Drug offences",210,68,233,2583,4010
+"The Hills Shire",2020,"Assault","Domestic violence related assault",258,"Drug offences",160,66,265,2564,3905
+"Tweed",2016,"Assault","Domestic violence related assault",289,"Drug offences",860,126,163,74662,89647
+"Tweed",2017,"Assault","Domestic violence related assault",291,"Drug offences",777,118,173,75680,93746
+"Tweed",2018,"Assault","Domestic violence related assault",324,"Drug offences",695,134,192,78215,95543
+"Tweed",2019,"Assault","Domestic violence related assault",335,"Drug offences",527,144,194,81011,98358
+"Tweed",2020,"Assault","Domestic violence related assault",232,"Drug offences",487,117,222,80764,104481
+"Unincorporated Far West",2016,"Assault","Domestic violence related assault",2,"Drug offences",1,2,4,32883,60858
+"Unincorporated Far West",2017,"Assault","Domestic violence related assault",0,"Drug offences",2,0,0,33238,61670
+"Unincorporated Far West",2018,"Assault","Domestic violence related assault",1,"Drug offences",1,0,1,34417,61600
+"Unincorporated Far West",2019,"Assault","Domestic violence related assault",0,"Drug offences",3,0,3,35710,61274
+"Unincorporated Far West",2020,"Assault","Domestic violence related assault",2,"Drug offences",0,2,2,35557,62824
+"Upper Hunter Shire",2016,"Assault","Domestic violence related assault",37,"Drug offences",51,17,20,224,189
+"Upper Hunter Shire",2017,"Assault","Domestic violence related assault",27,"Drug offences",24,13,14,225,190
+"Upper Hunter Shire",2018,"Assault","Domestic violence related assault",54,"Drug offences",44,18,36,232,188
+"Upper Hunter Shire",2019,"Assault","Domestic violence related assault",43,"Drug offences",57,16,27,241,174
+"Upper Hunter Shire",2020,"Assault","Domestic violence related assault",58,"Drug offences",32,32,45,235,167
+"Upper Lachlan Shire",2016,"Assault","Domestic violence related assault",19,"Drug offences",7,7,13,5916,8427
+"Upper Lachlan Shire",2017,"Assault","Domestic violence related assault",8,"Drug offences",7,3,5,5907,8381
+"Upper Lachlan Shire",2018,"Assault","Domestic violence related assault",8,"Drug offences",11,4,4,6078,8144
+"Upper Lachlan Shire",2019,"Assault","Domestic violence related assault",8,"Drug offences",9,3,5,6284,7908
+"Upper Lachlan Shire",2020,"Assault","Domestic violence related assault",3,"Drug offences",7,4,5,6256,7925
+"Uralla",2016,"Assault","Domestic violence related assault",22,"Drug offences",6,8,14,3301,6539
+"Uralla",2017,"Assault","Domestic violence related assault",21,"Drug offences",9,7,14,3309,6595
+"Uralla",2018,"Assault","Domestic violence related assault",19,"Drug offences",7,4,15,3420,6535
+"Uralla",2019,"Assault","Domestic violence related assault",16,"Drug offences",9,6,10,3556,6466
+"Uralla",2020,"Assault","Domestic violence related assault",11,"Drug offences",5,11,8,3571,6574
+"Wagga Wagga",2016,"Assault","Domestic violence related assault",399,"Drug offences",391,110,289,1722,4995
+"Wagga Wagga",2017,"Assault","Domestic violence related assault",376,"Drug offences",305,122,254,1707,5003
+"Wagga Wagga",2018,"Assault","Domestic violence related assault",409,"Drug offences",323,141,268,1744,4929
+"Wagga Wagga",2019,"Assault","Domestic violence related assault",515,"Drug offences",448,159,356,1791,4874
+"Wagga Wagga",2020,"Assault","Domestic violence related assault",350,"Drug offences",332,147,311,1780,4846
+"Walcha",2016,"Assault","Domestic violence related assault",9,"Drug offences",13,1,8,36086,27871
+"Walcha",2017,"Assault","Domestic violence related assault",9,"Drug offences",10,3,6,36317,28062
+"Walcha",2018,"Assault","Domestic violence related assault",12,"Drug offences",14,9,3,37495,27296
+"Walcha",2019,"Assault","Domestic violence related assault",9,"Drug offences",18,2,7,38827,26402
+"Walcha",2020,"Assault","Domestic violence related assault",7,"Drug offences",11,2,13,38745,26879
+"Walgett",2016,"Assault","Domestic violence related assault",116,"Drug offences",51,68,48,1679,1588
+"Walgett",2017,"Assault","Domestic violence related assault",148,"Drug offences",58,90,58,1656,1600
+"Walgett",2018,"Assault","Domestic violence related assault",147,"Drug offences",64,84,63,1686,1541
+"Walgett",2019,"Assault","Domestic violence related assault",150,"Drug offences",59,62,88,1729,1502
+"Walgett",2020,"Assault","Domestic violence related assault",99,"Drug offences",68,66,78,1717,1478
+"Warren",2016,"Assault","Domestic violence related assault",37,"Drug offences",16,13,24,2382,4246
+"Warren",2017,"Assault","Domestic violence related assault",24,"Drug offences",10,16,8,2343,4166
+"Warren",2018,"Assault","Domestic violence related assault",43,"Drug offences",6,18,25,2375,4003
+"Warren",2019,"Assault","Domestic violence related assault",40,"Drug offences",16,12,28,2422,3854
+"Warren",2020,"Assault","Domestic violence related assault",34,"Drug offences",8,12,27,2383,3761
+"Warrumbungle Shire",2016,"Assault","Domestic violence related assault",49,"Drug offences",65,13,36,1118,1224
+"Warrumbungle Shire",2017,"Assault","Domestic violence related assault",50,"Drug offences",73,21,29,1095,1215
+"Warrumbungle Shire",2018,"Assault","Domestic violence related assault",52,"Drug offences",107,23,29,1106,1171
+"Warrumbungle Shire",2019,"Assault","Domestic violence related assault",46,"Drug offences",101,21,25,1124,1116
+"Warrumbungle Shire",2020,"Assault","Domestic violence related assault",25,"Drug offences",27,8,25,1107,1089
+"Waverley",2016,"Assault","Domestic violence related assault",170,"Drug offences",604,70,100,3383,5955
+"Waverley",2017,"Assault","Domestic violence related assault",156,"Drug offences",662,57,99,3378,5901
+"Waverley",2018,"Assault","Domestic violence related assault",156,"Drug offences",605,71,85,3476,5743
+"Waverley",2019,"Assault","Domestic violence related assault",196,"Drug offences",607,70,125,3597,5561
+"Waverley",2020,"Assault","Domestic violence related assault",125,"Drug offences",403,64,107,3594,5508
+"Weddin",2016,"Assault","Domestic violence related assault",9,"Drug offences",5,4,5,28161,43851
+"Weddin",2017,"Assault","Domestic violence related assault",13,"Drug offences",2,3,9,28503,44882
+"Weddin",2018,"Assault","Domestic violence related assault",4,"Drug offences",3,1,3,29514,44525
+"Weddin",2019,"Assault","Domestic violence related assault",10,"Drug offences",2,4,6,30626,43595
+"Weddin",2020,"Assault","Domestic violence related assault",10,"Drug offences",5,8,6,30437,43838
+"Wentworth",2016,"Assault","Domestic violence related assault",58,"Drug offences",54,39,19,1420,2244
+"Wentworth",2017,"Assault","Domestic violence related assault",60,"Drug offences",51,34,26,1413,2236
+"Wentworth",2018,"Assault","Domestic violence related assault",72,"Drug offences",42,43,29,1449,2179
+"Wentworth",2019,"Assault","Domestic violence related assault",72,"Drug offences",29,30,42,1498,2107
+"Wentworth",2020,"Assault","Domestic violence related assault",55,"Drug offences",36,32,35,1501,2086
+"Willoughby",2016,"Assault","Domestic violence related assault",73,"Drug offences",137,19,54,3164,3765
+"Willoughby",2017,"Assault","Domestic violence related assault",77,"Drug offences",160,20,57,3138,3812
+"Willoughby",2018,"Assault","Domestic violence related assault",121,"Drug offences",155,32,89,3215,3767
+"Willoughby",2019,"Assault","Domestic violence related assault",97,"Drug offences",132,30,67,3309,3693
+"Willoughby",2020,"Assault","Domestic violence related assault",72,"Drug offences",131,23,72,3285,3745
+"Wingecarribee",2016,"Assault","Domestic violence related assault",125,"Drug offences",115,48,77,71388,7404
+"Wingecarribee",2017,"Assault","Domestic violence related assault",103,"Drug offences",127,35,68,72225,7918
+"Wingecarribee",2018,"Assault","Domestic violence related assault",94,"Drug offences",118,37,57,74564,6107
+"Wingecarribee",2019,"Assault","Domestic violence related assault",101,"Drug offences",149,39,61,77057,4382
+"Wingecarribee",2020,"Assault","Domestic violence related assault",82,"Drug offences",147,47,62,76787,4734
+"Wollondilly",2016,"Assault","Domestic violence related assault",185,"Drug offences",102,61,124,21219,27767
+"Wollondilly",2017,"Assault","Domestic violence related assault",167,"Drug offences",123,56,111,21542,28123
+"Wollondilly",2018,"Assault","Domestic violence related assault",189,"Drug offences",127,71,118,22352,28055
+"Wollondilly",2019,"Assault","Domestic violence related assault",165,"Drug offences",151,58,107,23228,27842
+"Wollondilly",2020,"Assault","Domestic violence related assault",139,"Drug offences",63,40,141,23160,28536
+"Wollongong",2016,"Assault","Domestic violence related assault",792,"Drug offences",896,249,543,13530,36381
+"Wollongong",2017,"Assault","Domestic violence related assault",655,"Drug offences",989,214,441,13582,37469
+"Wollongong",2018,"Assault","Domestic violence related assault",667,"Drug offences",871,223,444,13910,38235
+"Wollongong",2019,"Assault","Domestic violence related assault",689,"Drug offences",916,211,478,14282,38783
+"Wollongong",2020,"Assault","Domestic violence related assault",494,"Drug offences",817,202,461,14137,39772
+"Woollahra",2016,"Assault","Domestic violence related assault",89,"Drug offences",219,38,51,93501,116922
+"Woollahra",2017,"Assault","Domestic violence related assault",94,"Drug offences",207,46,48,94968,118442
+"Woollahra",2018,"Assault","Domestic violence related assault",93,"Drug offences",326,34,59,98224,117654
+"Woollahra",2019,"Assault","Domestic violence related assault",96,"Drug offences",220,37,59,101789,116313
+"Woollahra",2020,"Assault","Domestic violence related assault",56,"Drug offences",95,38,44,101435,118384
+"Yass Valley",2016,"Assault","Domestic violence related assault",34,"Drug offences",135,12,20,22691,35041
+"Yass Valley",2017,"Assault","Domestic violence related assault",26,"Drug offences",152,8,18,22989,35388
+"Yass Valley",2018,"Assault","Domestic violence related assault",34,"Drug offences",132,8,26,23817,34845
+"Yass Valley",2019,"Assault","Domestic violence related assault",29,"Drug offences",66,7,22,24732,34238
+"Yass Valley",2020,"Assault","Domestic violence related assault",17,"Drug offences",33,6,23,24620,34439
